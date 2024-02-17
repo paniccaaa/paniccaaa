@@ -1,4 +1,4 @@
-Hi 👋 My name is Simon Adamenko
+Hi 👋 My name is Semion Adamenko
 ================================
 
 Frontend developer
