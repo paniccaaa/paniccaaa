@@ -1,6 +1,3 @@
-Hi 👋 My name is Semion Adamenko
-================================
-
 Frontend developer
 ------------------
 
