@@ -1,6 +1,5 @@
 Golang developer
 ------------------
-
 * 🌍  I'm based in Russia, Saint-Petersburg
 * ✉️  Contact me:
   - Email: [semaadamenko1@gmail.com](mailto:semaadamenko1@yandex.com)
